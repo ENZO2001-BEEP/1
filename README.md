@@ -17,7 +17,7 @@ function generateSitemap() {
   slugs.forEach(
     (slug) =>
       (sitemap +=
-        "<url><loc>https://" + MY_DOMAIN + "恩佐的.space" + slug + "</loc></url>")
+        "<url><loc>https://" + MY_DOMAIN + "xn--qqqr03bdvq.space" + slug + "</loc></url>")
   );
   sitemap += "</urlset>";
   return sitemap;
